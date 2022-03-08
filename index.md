@@ -27,5 +27,20 @@ Here's how to format your blog in Google Docs so that it transfers onto WordPres
 
 
 1. Log into your Google Account
+    
+     **a. If you DO NOT have a Google Account, create one by going to this website: https://www.google.com/account/about/**
+    
+    
 2. Click the nine dots in the corner of the screen
 3. Click on Docs to open the Google Docs homepage
+4. To start a new page, click on the blank sheet with a multicolored plus sign
+    
+     **a. If you already have your blog started, click on the blog that you have started in the "Recent documents" part of the page**
+5. Once the page is loaded, click "file" under the document name
+6. Scroll and click "Page Setup"
+7. Change the margins from "1.0" to "0.5"
+8. After setting your margins, press "OK"
+9. Create your title by clicking "normal text" to change to "Title"
+10. Click "Insert" under the document name
+11. Click "Horizontal line" to place under the title
+12. Write the rest of your blog post
