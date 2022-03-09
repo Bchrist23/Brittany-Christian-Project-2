@@ -31,9 +31,11 @@ Here's how to format your blog in Google Docs so that it transfers onto WordPres
 |Don't Have a Google Account? | Go to this website: https://www.google.com/account/about/|
 |-----------------------------|----------------------------------------------------------|
 
-!["New Tab" Page of Google](
-
 **2. Click the nine dots in the corner of the screen**
+
+!["New Tab" Page of Google](screenshot-nimbusweb.me-2022.03.08-08_25_46.png)
+
+Caption: "New Tab" Page of Google. Red Square is the Google Apps icon you should click on.
 
 **3. Click on Docs to open the Google Docs homepage**
 
