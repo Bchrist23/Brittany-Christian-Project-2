@@ -9,9 +9,9 @@ Today, I'm going to show you how to format and write a blog using Google Docs.
 
 ## Software Tools Needed
 
-- Google Docs
-- Google Account
-- Laptop/Computer/Desktop (Brand doesn't matter, must be from the year 2010 and up)
+- [ ] Google Docs
+- [ ] Google Account
+- [ ] Laptop/Computer/Desktop (Brand doesn't matter, must be from the year 2010 and up)
 
 
 
@@ -35,7 +35,7 @@ Here's how to format your blog in Google Docs so that it transfers onto WordPres
 
 !["New Tab" Page of Google](screenshot-nimbusweb.me-2022.03.08-08_25_46.png)
 
-Caption: "New Tab" Page of Google. Red Square is the Google Apps icon you should click on.
+###### Caption: "New Tab" Page of Google. Red Square is the Google Apps icon you should click on.
 
 **3. Click on Docs to open the Google Docs homepage**
 
@@ -44,17 +44,44 @@ Caption: "New Tab" Page of Google. Red Square is the Google Apps icon you should
 |Already Have your Blog Started? | Find your blog in the "Recent documents" part of the page|
 |--------------------------------|--------------------------------------------------------|
 
+![Google Docs Homepage](screenshot-nimbusweb.me-2022.03.08-08_26_41.png)
+
+###### Caption: Homepage of Google Docs. Red Square is the Blank Document you should click on unless you've already started a blog.
+
 **5. Once the page is loaded, click "file" under the document name**
+
+![Tabs Under Title of Document](screenshot-docs.google.com-2022.03.08-08_27_33.png)
+
+###### Caption: Tabs Under Title of Document. Red Square indicates where "File" is located.
 
 **6. Scroll and click "Page Setup"**
 
 **7. Change all margins from "1.0" to "0.5"**
 
+![Page Setup](screenshot-docs.google.com-2022.03.08-08_28_14.png)
+
+###### Caption: This is Page Setup. Red Square represents the margins of which they should be in.
+
 **8. After setting your margins, click "OK"**
 
 **9. Create your title by selecting "normal text" to expand the style list and select "Title"**
 
+![Document Tools](screenshot-docs.google.com-2022.03.08-08_28_48.png)
+
+###### Caption: Document tools. Red Square indicates  the type of text you're on.
+
+                                                                ⬇️
+                                                                
+![Document Tools](screenshot-docs.google.com-2022.03.08-08_29_29.png)
+
+###### Caption: Document tools. Red Square indicates the type of text you're on.
+
+
 **10. Click "Insert" under the document name**
+
+![Tabs Under Document Title](screenshot-docs.google.com-2022.03.08-08_30_07.png)
+
+###### Caption: Tabs Under Document Title. Red Square indicates where "Insert" is located.
 
 **11. Click "Horizontal line" to place it under the title**
 
