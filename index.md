@@ -87,6 +87,6 @@ Here's how to format your blog in Google Docs so that it transfers onto WordPres
 
 **12. Write the rest of your blog post**
 
-**13. Take the cursor to highlight your entire blog to copy it**
+**13. Take the cursor and highlight your entire blog to copy it**
 
 **14. Paste the blog onto your WordPress post**
